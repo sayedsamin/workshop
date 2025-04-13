@@ -1,0 +1,3 @@
+# Git commits
+
+git commit -a -m "gitcommands.txt created"
