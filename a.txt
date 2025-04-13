@@ -1,8 +1,2 @@
-git commit -m "dont add"
-
-
-
-
-This is the first line,
-this line is from branch feature-login
-some changes
+Line 1
+Line 2
